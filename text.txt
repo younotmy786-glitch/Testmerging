@@ -1,3 +1,3 @@
-feature 1 
+feature 1 + bugfix
 feature 2 
 feature 3
